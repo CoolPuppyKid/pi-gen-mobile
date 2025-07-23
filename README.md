@@ -9,6 +9,8 @@ Raspberry Pi OS 64 bit images are based primarily on Debian.
 **Note**: 32 bit images should be built from the `master` branch.
 64 bit images should be built from the `arm64` branch.
 
+**Note**: The default-config file can be renamed to "config" if you like it
+
 ## Dependencies
 
 pi-gen runs on Debian-based operating systems released after 2017, and we
@@ -371,6 +373,8 @@ maintenance and allows for more easy customization.
  - **Stage 5** - The Raspberry Pi OS Full image. More development
    tools, an email client, learning tools like Scratch, specialized packages
    like sonic-pi, office productivity, etc.
+
+ - **Stage 6** - Sets up the device as a mobile phone it is expected that 3-5 is skipped when using this one
 
 ### Stage specification
 
