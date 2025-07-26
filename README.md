@@ -7,6 +7,11 @@ which was in turn derived from the Raspbian project.
 
 **Note**: The default-config file can be renamed to "config" if you like it
 
+## Accounts
+By default there is a phone account with the password "0000"
+And a root account with the password "root"
+**PLEASE CHANGE THESE BEFORE USE**
+
 ## Dependencies
 
 pi-gen runs on Debian-based operating systems released after 2017, and we

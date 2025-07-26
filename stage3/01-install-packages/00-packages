@@ -15,6 +15,7 @@ kbd
 phosh-mobile-tweaks
 phosh-plugins
 slurp
+util-linux
 
 gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
